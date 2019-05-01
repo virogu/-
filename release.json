@@ -1,12 +1,12 @@
 {
-	app{
+	"app"{
 		"version_name":"2.5.2",
 		"version_code":"1810151100",
 		"apk_url":"https://www.lanzous.com/tp/i3yfvkd",
 		"update_log":"-更新了浏览内核|-优化启动速度",
 		"force_code":"1"
 	}
-	post{
+	"post"{
 		"post_code":"0",
 		"post":""
 }
