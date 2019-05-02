@@ -1,14 +1,13 @@
-{
-	"app"{
+[
+	{
 		"version_name":"3.0",
-		"version_code":"1905020000",
+		"version_code":"190502",
 		"apk_url":"https://www.lanzous.com/tp/i3yfvkd",
 		"update_log":"-多项优化",
 		"force_code":"1"
-	}
-	"post"{
-		"post_code":"0",
+	},
+	{
+	 	"post_code":"0",
 		"post":""
 	}
-}
-
+]
