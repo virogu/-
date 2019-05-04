@@ -2,7 +2,7 @@
 	"app":{
 		"version_name":"3.0",
 		"version_code":"1905020000",
-		"apk_url":"https://baidu.com",
+		"apk_url":"https://raw.githubusercontent.com/virogu/gouwuba/master/gouwuba_2.5.2.apk",
 		"update_log":"第一行\n第二行\n第三行\n第四行\n第五行\n",
 		"update_notice":"null",
 		"update_code":"0",
