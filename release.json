@@ -1,7 +1,7 @@
 {
 	"app":{
 		"version_name":"3.0",
-		"version_code":"1905020000",
+		"version_code":"1905010000",
 		"apk_url":"https://raw.githubusercontent.com/virogu/gouwuba/master/gouwuba_3.0.apk",
 		"update_log":"-全新编译\n-多处优化，速度更快\n-修复视频单闪退问题\n-优化全面屏手机显示效果\n-最低兼容安卓4\n",
 		"update_notice":"null",
