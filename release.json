@@ -4,7 +4,10 @@
 		"version_code":"1905020000",
 		"apk_url":"https://baidu.com",
 		"update_log":"第一行\n第二行\n第三行\n第四行\n第五行\n",
-		"force_code":"0"
+		"update_notice":"null",
+		"update_code":"0",
+		"cancel_notice":"此版本必须更新，否则会影响正常使用，请尽快更新",
+		"cancel_code":"1"
 	},
 	"post":{
 	 	"post_code":"1",
