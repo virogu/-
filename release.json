@@ -4,10 +4,10 @@
 		"version_code":"1905020000",
 		"apk_url":"https://baidu.com",
 		"update_log":"第一行\n第二行\n第三行\n第四行\n第五行\n",
-		"force_code":"1"
+		"force_code":"0"
 	},
 	"post":{
-	 	"post_code":"0",
+	 	"post_code":"1",
 		"post":"第一行\n第二行\n第三行\n第四行\n第五行\n"
 	}
 }
