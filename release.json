@@ -1,11 +1,11 @@
 {
 	"app":{
-		"version_name":"3.0",
-		"version_code":"190501",
-		"apk_url":"https://raw.githubusercontent.com/virogu/gouwuba/master/gouwuba_3.0.apk",
-		"update_log":"-全新编译\n-多处优化，速度更快\n-修复视频单闪退问题\n-优化全面屏手机显示效果\n-最低兼容安卓4\n",
+		"version_name":"3.1",
+		"version_code":"190812",
+		"apk_url":"https://www.lanzous.com/tp/i5jcm1e",
+		"update_log":"-增强稳定性\n-修复部分场景闪退问题\n",
 		"update_notice":"null",
-		"update_code":"0",
+		"update_code":"1",
 		"cancel_notice":"此版本必须更新，否则会影响正常使用，请尽快更新",
 		"cancel_code":"1"
 	},
