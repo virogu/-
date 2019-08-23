@@ -3,7 +3,7 @@
 		"version_name":"3.2",
 		"version_code":"190823",
 		"apk_url":"https://www.lanzous.com/tp/i5qz4id",
-		"update_log":"-增强稳定性\n-修复因网络请求失败造成的闪退问题\n",
+		"update_log":"-增强稳定性\n-修复网络请求失败闪退问题\n",
 		"update_notice":"请根据提示下载更新",
 		"update_code":"1",
 		"cancel_notice":"此版本必须更新，否则会影响正常使用，请尽快更新",
