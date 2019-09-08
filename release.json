@@ -12,5 +12,9 @@
 	"post":{
 	 	"post_code":"0",
 		"post":"服务器维护中，软件暂时无法使用"
+	},
+	"spare": {
+		"spare_code": "1",
+		"spare_url": "http://t.cn/RYAqC6i"
 	}
 }
